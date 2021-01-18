@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="">
+        <item
+            android:id="@+id/sd_how_to_use"
+            android:title="How To Use"
+            app:actionViewClass="android.widget.ImageView" />
+        <item
+            android:id="@+id/sd_faq"
+            android:title="Performance Mounth"
+            app:actionViewClass="android.widget.ImageView" />
+        <item
+            android:id="@+id/sd_log_out"
+            android:title="Log Out"
+            app:actionViewClass="android.widget.ImageView" />
+        <item
+            android:id="@+id/sd_about"
+            android:title="About"
+            app:actionViewClass="android.widget.ImageView" />
+    </item>
+</menu>

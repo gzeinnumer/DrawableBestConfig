@@ -91,10 +91,10 @@ public class DashboardActivity extends AppCompatActivity {
     - [custom_layout_header_drawer.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/custom_layout_header_drawer.xml)
     - [fragment_home.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/fragment_home.xml)
     - [menu_navigation_drawer.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/menu/menu_navigation_drawer.xml)
-- navigation
-  - [mobile_navigation.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/navigation/mobile_navigation.xml)
-- values
-  - [themes.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/values/themes.xml)
+  - navigation
+    - [mobile_navigation.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/navigation/mobile_navigation.xml)
+  - values
+    - [themes.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/values/themes.xml)
 
 ---
 

@@ -79,16 +79,22 @@ public class DashboardActivity extends AppCompatActivity {
 ```
 
 - [AndroidManifest.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/AndroidManifest.xml)
-- [DashboardActivity.java](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/java/com/gzeinnumer/drawablebestconfig/DashboardActivity.java)
-- [HomeFragment.java](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/java/com/gzeinnumer/drawablebestconfig/fr/HomeFragment.java)
-- [activity_dashboard.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/activity_dashboard.xml)
-- [app_bar_main.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/app_bar_main.xml)
-- [content_main.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/content_main.xml)
-- [custom_layout_header_drawer.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/custom_layout_header_drawer.xml)
-- [fragment_home.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/fragment_home.xml)
-- [menu_navigation_drawer.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/menu/menu_navigation_drawer.xml)
-- [mobile_navigation.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/navigation/mobile_navigation.xml)
-- [themes.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/values/themes.xml)
+- app
+  - [DashboardActivity.java](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/java/com/gzeinnumer/drawablebestconfig/DashboardActivity.java)
+  - fr
+    - [HomeFragment.java](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/java/com/gzeinnumer/drawablebestconfig/fr/HomeFragment.java)
+- res
+  - layout
+    - [activity_dashboard.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/activity_dashboard.xml)
+    - [app_bar_main.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/app_bar_main.xml)
+    - [content_main.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/content_main.xml)
+    - [custom_layout_header_drawer.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/custom_layout_header_drawer.xml)
+    - [fragment_home.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/layout/fragment_home.xml)
+    - [menu_navigation_drawer.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/menu/menu_navigation_drawer.xml)
+- navigation
+  - [mobile_navigation.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/navigation/mobile_navigation.xml)
+- values
+  - [themes.xml](https://github.com/gzeinnumer/DrawableBestConfig/blob/master/app/src/main/res/values/themes.xml)
 
 ---
 
